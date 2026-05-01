@@ -1,17 +1,15 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=runtimebug&style=flat-square"/>
 
-# Hi, I'm Anwar 👋  
-**Software & DevOps Engineer**
+# Hi, I'm Anwar 👋
+**Senior Full-Stack Engineer**
 
-I build web apps, infrastructure, and automation tools with a strong focus on clean architecture and real-world impact.  
-My background blends software engineering, DevOps, cybersecurity, and IoT — and I enjoy working across the stack.
+Full-stack engineer with 4+ years building production systems across offline-first mobile, cloud security, and high-traffic web platforms.
 
-Lately, I’ve been diving deeper into AI, innovation, and entrepreneurship to understand how tech shapes society and markets.  
-I’m user-centric, pragmatic, and driven by building things that matter.
+Currently at Doriane, shipping features used by agronomy professionals and seed companies across the world.
 
-- 🛠️ TypeScript / Node.js / Angular / Python / Docker  
-- 🧠 Exploring AI-powered developer tools  
-- 🔄 Clean CI/CD, scalable infra, and automation  
-- 🧩 Open source contributor  
+- 🛠️ Angular / React Native / NestJS / PostgreSQL / MongoDB / AWS
+- ☁️ Serverless architecture, IAM, ISO 27001 compliance
+- 🔄 CI/CD, Docker, observability with CloudWatch
+- 🧩 Open source contributor
 
-📬 [LinkedIn](https://www.linkedin.com/in/anwarmeqor/)
+📬 [LinkedIn](https://www.linkedin.com/in/anwarmeqor/) · [runtimebug.com](https://runtimebug.com)
